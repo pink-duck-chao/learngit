@@ -5,5 +5,4 @@ Git tracks changes of files.
 My stupid boss still prefers SVN.
 Creating a new branch is quick and simple.
 new line.
-new line2.
-new line day 2.
+ 97caf5802e187fd068f244b35d59e23f75c8cfa7
